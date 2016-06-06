@@ -2,5 +2,4 @@
 //
 //
 //ccc
-
-console.log('Hello');
+// Daniel não está participando adequadamente do curso.
