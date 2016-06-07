@@ -1,0 +1,1 @@
+escrevi do meu jeito
