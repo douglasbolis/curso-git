@@ -1,1 +1,1 @@
-console.log("Adios");
+// Ainda bem que acabou!
